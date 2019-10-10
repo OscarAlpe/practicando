@@ -1,2 +1,2 @@
 Seguimos probando cosas.
-Modificamos el fichero en la rama master.
+Dejamos una nueva con las dos.
